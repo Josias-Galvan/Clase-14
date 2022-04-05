@@ -1,0 +1,20 @@
+//imports
+@import "../componentes/commons";
+@import "../componentes/content";
+@import "../componentes/fonts";
+@import "../componentes/index";
+@import "../componentes/footer";
+@import "../componentes/navBar";
+@import "../componentes/nosotros";
+
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.h2 {
+    font-size: 4rem;
+    font-family: "Oxygen", sans-serif;
+}
